@@ -169,3 +169,12 @@ Kubernetes 支持许多容器运行环境，例如 containerd、 CRI-O 以及 Ku
 
 ![picture](./src/picture/K8S-network.png "K8S")
 
+[CNI（容器网络接口）](https://www.cni.dev/plugins/current/)：
+
+flannel
+
+calico
+
+
+
+CRI（容器运行时接口）：
