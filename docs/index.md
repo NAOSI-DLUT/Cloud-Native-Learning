@@ -91,7 +91,7 @@ K8S作为集群的管理所以也是需要关注三个资源。
 
 提到K8S架构，首先可以简单看看他的祖先Borg的架构。简单过一下就可以，详细的不做讲解。
 
-![picture](./src/picture/Borg.png "Borg")
+![picture](https://github.com/MoLiYue/Cloud-Native-Learning/src/picture/Borg.png "Borg")
 
 之后看看K8S官网的架构图：
 
@@ -99,7 +99,7 @@ K8S作为集群的管理所以也是需要关注三个资源。
 
 再展示一些网上的第三方绘图：
 
-![picture](./src/picture/K8S-structure.png "K8S")
+![picture](https://github.com/MoLiYue/Cloud-Native-Learning/src/picture/K8S-structure.png "K8S")
 
 首先先简单介绍一下这些内容，图中所示内容在官方文档被称为“组件”，还有一些为“插件”。插件一看就不是必备的，暂时先不提。先来看看组件。
 
@@ -167,7 +167,7 @@ Kubernetes 支持许多容器运行环境，例如 containerd、 CRI-O 以及 Ku
 
 这些我理解可以认为是计算资源上以及存储资源上的架构，接下来看一张接口上的架构：
 
-![picture](./src/picture/K8S-network.png "K8S")
+![picture](https://github.com/MoLiYue/Cloud-Native-Learning/src/picture/K8S-network.png "K8S")
 
 [CNI（容器网络接口）](https://www.cni.dev/plugins/current/)：
 
@@ -194,6 +194,6 @@ docker
 
 前期简单的介绍了解到这里我觉得就可以了。
 
-[接下来要进入下一章内容，详细讲讲Pod。](./chapter2.md "file")
+[接下来要进入下一章内容，详细讲讲Pod。](https://github.com/MoLiYue/Cloud-Native-Learning/chapter2.md "file")
 
-如果你已经迫不及待想要上手了，[请继续阅读这里](./chapter0.md "file")。
+如果你已经迫不及待想要上手了，[请继续阅读这里](https://github.com/MoLiYue/Cloud-Native-Learning/chapter0.md "file")。
