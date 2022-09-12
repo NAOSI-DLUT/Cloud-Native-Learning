@@ -171,10 +171,29 @@ Kubernetes 支持许多容器运行环境，例如 containerd、 CRI-O 以及 Ku
 
 [CNI（容器网络接口）](https://www.cni.dev/plugins/current/)：
 
-flannel
+Flannel
 
-calico
+Calico
 
+Multus
+
+SR-IOV
+
+Cilium
+
+**这些名称暂时不需要理解，后续会逐步讲解。**
 
 
 CRI（容器运行时接口）：
+
+cri-o
+
+containerd
+
+docker
+
+前期简单的介绍了解到这里我觉得就可以了。
+
+[接下来要进入下一章内容，详细讲讲Pod。](./chapter2.md "file")
+
+如果你已经迫不及待想要上手了，[请继续阅读这里](./chapter0.md "file")。
