@@ -194,6 +194,6 @@ docker
 
 前期简单的介绍了解到这里我觉得就可以了。
 
-[接下来要进入下一章内容，详细讲讲Pod。](https://github.com/MoLiYue/Cloud-Native-Learning/chapter2.md "file")
+[接下来要进入下一章内容，详细讲讲Pod。](./chapter2.md "file")
 
-如果你已经迫不及待想要上手了，[请继续阅读这里](https://github.com/MoLiYue/Cloud-Native-Learning/chapter0.md "file")。
+如果你已经迫不及待想要上手了，[请继续阅读这里](./chapter0.md "file")。
