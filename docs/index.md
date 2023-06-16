@@ -101,9 +101,9 @@ K8S作为集群的管理所以也是需要关注三个资源。
 
 ![picture](https://raw.githubusercontent.com/MoLiYue/Cloud-Native-Learning/master/src/picture/K8S-structure.png "K8S")
 
-首先先简单介绍一下这些内容，图中所示内容在官方文档被称为“组件”，还有一些为“插件”。插件一看就不是必备的，暂时先不提。先来看看组件。
+首先来看看想要将一堆计算机变为一个可以被管理的集群的基本需求——k8s都有什么。
 
-组件分**控制平面组件**以及**Node组件**（我不是很懂这个分法）：
+**控制平面组件**以及**Node组件**：
 
 ### 控制平面组件
 
@@ -170,16 +170,6 @@ Kubernetes 支持许多容器运行环境，例如 containerd、 CRI-O 以及 Ku
 ![picture](https://raw.githubusercontent.com/MoLiYue/Cloud-Native-Learning/master/src/picture/K8S-network.png "K8S")
 
 [CNI（容器网络接口）](https://www.cni.dev/plugins/current/)：
-
-Flannel
-
-Calico
-
-Multus
-
-SR-IOV
-
-Cilium
 
 **这些名称暂时不需要理解，后续会逐步讲解。**
 
